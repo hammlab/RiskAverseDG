@@ -75,3 +75,18 @@ or corrupted_eval_adaIN_augmented_classifier_M.py respectively for the same flag
 
 d. To evaluate NSS-trained models use the command in (c) above by changing the MODE flag to 1 instead of 0.
     
+#### Citing
+
+If you find this useful for your work, please consider citing
+<pre>
+<code>
+@misc{mehra2023fly,
+      title={On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization}, 
+      author={Akshay Mehra and Yunbei Zhang and Bhavya Kailkhura and Jihun Hamm},
+      year={2023},
+      eprint={2307.08551},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+</code>
+</pre>
