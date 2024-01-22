@@ -80,13 +80,12 @@ d. To evaluate NSS-trained models use the command in (c) above by changing the M
 If you find this useful for your work, please consider citing
 <pre>
 <code>
-@misc{mehra2023fly,
-      title={On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization}, 
-      author={Akshay Mehra and Yunbei Zhang and Bhavya Kailkhura and Jihun Hamm},
-      year={2023},
-      eprint={2307.08551},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{mehra2024fly,
+  title={On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization},
+  author={Mehra, Akshay and Zhang, Yunbei and Kailkhura, Bhavya and Hamm, Jihun},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3800--3811},
+  year={2024}
 }
 </code>
 </pre>
